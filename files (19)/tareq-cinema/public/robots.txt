@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow admin pages if you add them later
+Disallow: /api/
+Disallow: /admin/
+
+# Sitemap
+Sitemap: https://tareqcinema.com/sitemap.xml
